@@ -1,7 +1,7 @@
 ## MATLAB code for RCC: Robust Collaborative Clustering
 
 
-## To perform RCC, simply run RCC.m. 
+## To perform RCC, simply unzip nmfv1_4 and run RCC.m. 
    
 
 ## To set up the experiments from scratch, run the following scripts:
